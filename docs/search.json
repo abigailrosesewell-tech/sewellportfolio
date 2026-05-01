@@ -1,54 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Index",
-    "section": "",
-    "text": "Hi, I’m Abigail Sewell, a marketing student with experience in content creation, social media management, branding, and digital storytelling."
-  },
-  {
-    "objectID": "index.html#welcome",
-    "href": "index.html#welcome",
-    "title": "Index",
-    "section": "",
-    "text": "Hi, I’m Abigail Sewell, a marketing student with experience in content creation, social media management, branding, and digital storytelling."
-  },
-  {
-    "objectID": "index.html#about-me",
-    "href": "index.html#about-me",
-    "title": "Index",
-    "section": "About Me",
-    "text": "About Me\nI use Canva, CapCut, and Adobe tools to create marketing content. I also run social media for Sospeso, where I create content that supports brand identity and audience engagement."
-  },
-  {
-    "objectID": "index.html#headshot",
-    "href": "index.html#headshot",
-    "title": "Index",
-    "section": "Headshot",
-    "text": "Headshot"
-  },
-  {
-    "objectID": "index.html#website-pages",
-    "href": "index.html#website-pages",
-    "title": "Index",
-    "section": "Website Pages",
-    "text": "Website Pages\nThis website includes:\n\nA Home page\nA Marketing Projects page\nA Dashboard page\nA Revealjs Presentation page\nAn Analytics page"
-  },
-  {
-    "objectID": "index.html#skills",
-    "href": "index.html#skills",
-    "title": "Index",
-    "section": "Skills",
-    "text": "Skills\n\nSocial Media Management\nContent Creation\nCanva\nCapCut\nAdobe\nBranding\nCampaign Development\nMarketing Analytics"
-  },
-  {
-    "objectID": "index.html#career-goal",
-    "href": "index.html#career-goal",
-    "title": "Index",
-    "section": "Career Goal",
-    "text": "Career Goal\nMy goal is to build a career in marketing where I can combine creativity, strategy, and analytics to create strong brand experiences."
-  },
-  {
     "objectID": "analytics.html",
     "href": "analytics.html",
     "title": "Website Analytics",
@@ -119,41 +70,6 @@
     "text": "Conclusion\n\nWebsite analytics helps identify which channels perform best, how users behave, and where marketing improvements can create stronger results."
   },
   {
-    "objectID": "dashboard.html",
-    "href": "dashboard.html",
-    "title": "Dashboard",
-    "section": "",
-    "text": "This page presents sample visualizations similar to the kinds of dashboards used in marketing and social media reporting."
-  },
-  {
-    "objectID": "dashboard.html#dashboard",
-    "href": "dashboard.html#dashboard",
-    "title": "Dashboard",
-    "section": "",
-    "text": "This page presents sample visualizations similar to the kinds of dashboards used in marketing and social media reporting."
-  },
-  {
-    "objectID": "dashboard.html#social-media-engagement-by-platform",
-    "href": "dashboard.html#social-media-engagement-by-platform",
-    "title": "Dashboard",
-    "section": "Social Media Engagement by Platform",
-    "text": "Social Media Engagement by Platform"
-  },
-  {
-    "objectID": "dashboard.html#audience-reach-over-time",
-    "href": "dashboard.html#audience-reach-over-time",
-    "title": "Dashboard",
-    "section": "Audience Reach Over Time",
-    "text": "Audience Reach Over Time"
-  },
-  {
-    "objectID": "dashboard.html#dashboard-insights",
-    "href": "dashboard.html#dashboard-insights",
-    "title": "Dashboard",
-    "section": "Dashboard Insights",
-    "text": "Dashboard Insights\n\nInstagram and TikTok show higher engagement than Facebook\nAudience reach increases over time\nDashboards make campaign performance easier to understand"
-  },
-  {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Marketing Projects",
@@ -194,5 +110,145 @@
     "title": "Marketing Projects",
     "section": "Tools Used",
     "text": "Tools Used\n\nCanva\nCapCut\nAdobe"
+  },
+  {
+    "objectID": "presentation.html#introduction",
+    "href": "presentation.html#introduction",
+    "title": "How Social Media Builds Brand Identity",
+    "section": "Introduction",
+    "text": "Introduction\nSocial media plays a major role in how brands connect with audiences."
+  },
+  {
+    "objectID": "presentation.html#why-brand-identity-matters",
+    "href": "presentation.html#why-brand-identity-matters",
+    "title": "How Social Media Builds Brand Identity",
+    "section": "Why Brand Identity Matters",
+    "text": "Why Brand Identity Matters\nA strong brand identity helps businesses stand out and remain memorable."
+  },
+  {
+    "objectID": "presentation.html#role-of-content",
+    "href": "presentation.html#role-of-content",
+    "title": "How Social Media Builds Brand Identity",
+    "section": "Role of Content",
+    "text": "Role of Content\nContent shapes how audiences understand a brand’s personality, values, and message."
+  },
+  {
+    "objectID": "presentation.html#visual-storytelling",
+    "href": "presentation.html#visual-storytelling",
+    "title": "How Social Media Builds Brand Identity",
+    "section": "Visual Storytelling",
+    "text": "Visual Storytelling\nPhotos, videos, editing, and design all contribute to a stronger brand image."
+  },
+  {
+    "objectID": "presentation.html#consistency",
+    "href": "presentation.html#consistency",
+    "title": "How Social Media Builds Brand Identity",
+    "section": "Consistency",
+    "text": "Consistency\nConsistent colors, tone, and style make content feel professional and trustworthy."
+  },
+  {
+    "objectID": "presentation.html#engagement",
+    "href": "presentation.html#engagement",
+    "title": "How Social Media Builds Brand Identity",
+    "section": "Engagement",
+    "text": "Engagement\nStrong branding improves engagement because audiences are more likely to connect with clear and recognizable content."
+  },
+  {
+    "objectID": "presentation.html#real-world-relevance",
+    "href": "presentation.html#real-world-relevance",
+    "title": "How Social Media Builds Brand Identity",
+    "section": "Real-World Relevance",
+    "text": "Real-World Relevance\nThis is especially important for cafes, lifestyle brands, and fashion companies that rely on visual marketing."
+  },
+  {
+    "objectID": "presentation.html#conclusion",
+    "href": "presentation.html#conclusion",
+    "title": "How Social Media Builds Brand Identity",
+    "section": "Conclusion",
+    "text": "Conclusion\nSocial media is one of the most effective tools for building and maintaining brand identity."
+  },
+  {
+    "objectID": "dashboard.html",
+    "href": "dashboard.html",
+    "title": "Dashboard",
+    "section": "",
+    "text": "This page presents sample visualizations similar to the kinds of dashboards used in marketing and social media reporting."
+  },
+  {
+    "objectID": "dashboard.html#dashboard",
+    "href": "dashboard.html#dashboard",
+    "title": "Dashboard",
+    "section": "",
+    "text": "This page presents sample visualizations similar to the kinds of dashboards used in marketing and social media reporting."
+  },
+  {
+    "objectID": "dashboard.html#social-media-engagement-by-platform",
+    "href": "dashboard.html#social-media-engagement-by-platform",
+    "title": "Dashboard",
+    "section": "Social Media Engagement by Platform",
+    "text": "Social Media Engagement by Platform"
+  },
+  {
+    "objectID": "dashboard.html#audience-reach-over-time",
+    "href": "dashboard.html#audience-reach-over-time",
+    "title": "Dashboard",
+    "section": "Audience Reach Over Time",
+    "text": "Audience Reach Over Time"
+  },
+  {
+    "objectID": "dashboard.html#dashboard-insights",
+    "href": "dashboard.html#dashboard-insights",
+    "title": "Dashboard",
+    "section": "Dashboard Insights",
+    "text": "Dashboard Insights\n\nInstagram and TikTok show higher engagement than Facebook\nAudience reach increases over time\nDashboards make campaign performance easier to understand"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Index",
+    "section": "",
+    "text": "Hi, I’m Abigail Sewell, a marketing student with experience in content creation, social media management, branding, and digital storytelling."
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Index",
+    "section": "",
+    "text": "Hi, I’m Abigail Sewell, a marketing student with experience in content creation, social media management, branding, and digital storytelling."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Index",
+    "section": "About Me",
+    "text": "About Me\nI use Canva, CapCut, and Adobe tools to create marketing content. I also run social media for Sospeso, where I create content that supports brand identity and audience engagement."
+  },
+  {
+    "objectID": "index.html#headshot",
+    "href": "index.html#headshot",
+    "title": "Index",
+    "section": "Headshot",
+    "text": "Headshot"
+  },
+  {
+    "objectID": "index.html#website-pages",
+    "href": "index.html#website-pages",
+    "title": "Index",
+    "section": "Website Pages",
+    "text": "Website Pages\nThis website includes:\n\nA Home page\nA Marketing Projects page\nA Dashboard page\nA Revealjs Presentation page\nAn Analytics page"
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "Index",
+    "section": "Skills",
+    "text": "Skills\n\nSocial Media Management\nContent Creation\nCanva\nCapCut\nAdobe\nBranding\nCampaign Development\nMarketing Analytics"
+  },
+  {
+    "objectID": "index.html#career-goal",
+    "href": "index.html#career-goal",
+    "title": "Index",
+    "section": "Career Goal",
+    "text": "Career Goal\nMy goal is to build a career in marketing where I can combine creativity, strategy, and analytics to create strong brand experiences."
   }
 ]
