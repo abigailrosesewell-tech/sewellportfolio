@@ -1,0 +1,30 @@
+
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Abigail Sewell Portfolio"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: projects.qmd
+        text: Marketing Projects
+      - href: dashboard.qmd
+        text: Dashboard
+      - href: presentation.qmd
+        text: Brand Strategy Presentation
+      - href: analytics.qmd
+        text: Website Analytics
+
+format:
+  html:
+    theme: lux
+    toc: true
+
+execute:
+  echo: false
+  warning: false
+  message: false
+  

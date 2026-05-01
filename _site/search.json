@@ -1,0 +1,198 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Index",
+    "section": "",
+    "text": "Hi, I’m Abigail Sewell, a marketing student with experience in content creation, social media management, branding, and digital storytelling."
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Index",
+    "section": "",
+    "text": "Hi, I’m Abigail Sewell, a marketing student with experience in content creation, social media management, branding, and digital storytelling."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Index",
+    "section": "About Me",
+    "text": "About Me\nI use Canva, CapCut, and Adobe tools to create marketing content. I also run social media for Sospeso, where I create content that supports brand identity and audience engagement."
+  },
+  {
+    "objectID": "index.html#headshot",
+    "href": "index.html#headshot",
+    "title": "Index",
+    "section": "Headshot",
+    "text": "Headshot"
+  },
+  {
+    "objectID": "index.html#website-pages",
+    "href": "index.html#website-pages",
+    "title": "Index",
+    "section": "Website Pages",
+    "text": "Website Pages\nThis website includes:\n\nA Home page\nA Marketing Projects page\nA Dashboard page\nA Revealjs Presentation page\nAn Analytics page"
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "Index",
+    "section": "Skills",
+    "text": "Skills\n\nSocial Media Management\nContent Creation\nCanva\nCapCut\nAdobe\nBranding\nCampaign Development\nMarketing Analytics"
+  },
+  {
+    "objectID": "index.html#career-goal",
+    "href": "index.html#career-goal",
+    "title": "Index",
+    "section": "Career Goal",
+    "text": "Career Goal\nMy goal is to build a career in marketing where I can combine creativity, strategy, and analytics to create strong brand experiences."
+  },
+  {
+    "objectID": "analytics.html",
+    "href": "analytics.html",
+    "title": "Website Analytics",
+    "section": "",
+    "text": "This page explains how website traffic data can be collected, connected, and analyzed using Google Analytics 4 and related tools."
+  },
+  {
+    "objectID": "analytics.html#website-analytics-report",
+    "href": "analytics.html#website-analytics-report",
+    "title": "Website Analytics",
+    "section": "",
+    "text": "This page explains how website traffic data can be collected, connected, and analyzed using Google Analytics 4 and related tools."
+  },
+  {
+    "objectID": "analytics.html#connecting-website-to-google-analytics",
+    "href": "analytics.html#connecting-website-to-google-analytics",
+    "title": "Website Analytics",
+    "section": "Connecting Website to Google Analytics",
+    "text": "Connecting Website to Google Analytics\nGoogle Analytics 4 can be connected to a website by adding the tracking tag to the site. This allows website traffic and user behavior data to be collected."
+  },
+  {
+    "objectID": "analytics.html#connecting-google-search-console-to-google-analytics",
+    "href": "analytics.html#connecting-google-search-console-to-google-analytics",
+    "title": "Website Analytics",
+    "section": "Connecting Google Search Console to Google Analytics",
+    "text": "Connecting Google Search Console to Google Analytics\nGoogle Search Console can be linked to Google Analytics to better understand search performance, impressions, and organic traffic."
+  },
+  {
+    "objectID": "analytics.html#reading-google-analytics-from-google-bigquery",
+    "href": "analytics.html#reading-google-analytics-from-google-bigquery",
+    "title": "Website Analytics",
+    "section": "Reading Google Analytics from Google BigQuery",
+    "text": "Reading Google Analytics from Google BigQuery\nGoogle Analytics data can be exported to BigQuery, where larger and more detailed analyses can be performed."
+  },
+  {
+    "objectID": "analytics.html#visualizing-data-in-looker-studio",
+    "href": "analytics.html#visualizing-data-in-looker-studio",
+    "title": "Website Analytics",
+    "section": "Visualizing Data in Looker Studio",
+    "text": "Visualizing Data in Looker Studio\nLooker Studio can be used to visualize traffic and conversion metrics such as:\n\nUsers\nSessions\nTraffic source\nEngagement\nConversions"
+  },
+  {
+    "objectID": "analytics.html#sample-traffic-visualization",
+    "href": "analytics.html#sample-traffic-visualization",
+    "title": "Website Analytics",
+    "section": "Sample Traffic Visualization",
+    "text": "Sample Traffic Visualization"
+  },
+  {
+    "objectID": "analytics.html#sample-conversion",
+    "href": "analytics.html#sample-conversion",
+    "title": "Website Analytics",
+    "section": "Sample Conversion",
+    "text": "Sample Conversion"
+  },
+  {
+    "objectID": "analytics.html#insights",
+    "href": "analytics.html#insights",
+    "title": "Website Analytics",
+    "section": "Insights",
+    "text": "Insights\n\nDirect traffic is the strongest source of users\nOrganic search and social media also drive meaningful traffic\nEngaged sessions make up a large share of total sessions\nConversion metrics help evaluate website effectiveness"
+  },
+  {
+    "objectID": "analytics.html#conclusion",
+    "href": "analytics.html#conclusion",
+    "title": "Website Analytics",
+    "section": "Conclusion",
+    "text": "Conclusion\n\nWebsite analytics helps identify which channels perform best, how users behave, and where marketing improvements can create stronger results."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Marketing Projects",
+    "section": "",
+    "text": "This page highlights marketing work that reflects my experience in social media, branding, content creation, and campaign development."
+  },
+  {
+    "objectID": "projects.html#marketing-projects",
+    "href": "projects.html#marketing-projects",
+    "title": "Marketing Projects",
+    "section": "",
+    "text": "This page highlights marketing work that reflects my experience in social media, branding, content creation, and campaign development."
+  },
+  {
+    "objectID": "projects.html#sospeso-social-media-content",
+    "href": "projects.html#sospeso-social-media-content",
+    "title": "Marketing Projects",
+    "section": "Sospeso Social Media Content",
+    "text": "Sospeso Social Media Content\nFor Sospeso, I create and manage social media content that supports the cafe’s branding and customer engagement.\n\n\n\n\n\n\nInsights\n\nCreated content aligned with the cafe’s visual identity\nFocused on clear and engaging brand communication\nHelped strengthen audience connection through social media storytelling"
+  },
+  {
+    "objectID": "projects.html#meet-the-team-project",
+    "href": "projects.html#meet-the-team-project",
+    "title": "Marketing Projects",
+    "section": "Meet the Team Project",
+    "text": "Meet the Team Project\nThis project introduced team members in a way that felt welcoming, professional, and visually engaging.\n\n\n\n\n\n\nInsights\n\nHighlighted personality while maintaining a polished brand image\nUsed editing to improve visual flow and engagement\nSupported trust and connection through people-focused content"
+  },
+  {
+    "objectID": "projects.html#mock-levis-campaign",
+    "href": "projects.html#mock-levis-campaign",
+    "title": "Marketing Projects",
+    "section": "Mock Levi’s Campaign",
+    "text": "Mock Levi’s Campaign\nThis mock Levi’s campaign reflected the brand’s style while promoting a clear campaign message.\n\n\n\n\n\n\nInsights\n\nApplied brand-based creative direction\nFocused on campaign visuals and message consistency\nDemonstrated marketing strategy and design thinking"
+  },
+  {
+    "objectID": "projects.html#tools-used",
+    "href": "projects.html#tools-used",
+    "title": "Marketing Projects",
+    "section": "Tools Used",
+    "text": "Tools Used\n\nCanva\nCapCut\nAdobe"
+  },
+  {
+    "objectID": "dashboard.html",
+    "href": "dashboard.html",
+    "title": "Dashboard",
+    "section": "",
+    "text": "This page presents sample visualizations similar to the kinds of dashboards used in marketing and social media reporting."
+  },
+  {
+    "objectID": "dashboard.html#dashboard",
+    "href": "dashboard.html#dashboard",
+    "title": "Dashboard",
+    "section": "",
+    "text": "This page presents sample visualizations similar to the kinds of dashboards used in marketing and social media reporting."
+  },
+  {
+    "objectID": "dashboard.html#social-media-engagement-by-platform",
+    "href": "dashboard.html#social-media-engagement-by-platform",
+    "title": "Dashboard",
+    "section": "Social Media Engagement by Platform",
+    "text": "Social Media Engagement by Platform"
+  },
+  {
+    "objectID": "dashboard.html#audience-reach-over-time",
+    "href": "dashboard.html#audience-reach-over-time",
+    "title": "Dashboard",
+    "section": "Audience Reach Over Time",
+    "text": "Audience Reach Over Time"
+  },
+  {
+    "objectID": "dashboard.html#dashboard-insights",
+    "href": "dashboard.html#dashboard-insights",
+    "title": "Dashboard",
+    "section": "Dashboard Insights",
+    "text": "Dashboard Insights\n\nInstagram and TikTok show higher engagement than Facebook\nAudience reach increases over time\nDashboards make campaign performance easier to understand"
+  }
+]

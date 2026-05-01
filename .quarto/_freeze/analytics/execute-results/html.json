@@ -1,0 +1,17 @@
+{
+  "hash": "0ca4fbae4ec6664b610ad4cb7e21bd30",
+  "result": {
+    "engine": "knitr",
+    "markdown": "\n---\ntitle: \"Website Analytics\"\n---\n\n## Website Analytics Report\n\nThis page explains how website traffic data can be collected, connected, and analyzed using Google Analytics 4 and related tools.\n\n## Connecting Website to Google Analytics\n\nGoogle Analytics 4 can be connected to a website by adding the tracking tag to the site. This allows website traffic and user behavior data to be collected.\n\n## Connecting Google Search Console to Google Analytics\n\nGoogle Search Console can be linked to Google Analytics to better understand search performance, impressions, and organic traffic.\n\n## Reading Google Analytics from Google BigQuery\n\nGoogle Analytics data can be exported to BigQuery, where larger and more detailed analyses can be performed.\n\n## Visualizing Data in Looker Studio\n\nLooker Studio can be used to visualize traffic and conversion metrics such as:\n\n- Users\n- Sessions\n- Traffic source\n- Engagement\n- Conversions\n\n## Sample Traffic Visualization\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](analytics_files/figure-html/unnamed-chunk-1-1.png){width=672}\n:::\n:::\n\n\n## Sample Conversion\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](analytics_files/figure-html/unnamed-chunk-2-1.png){width=672}\n:::\n:::\n\n\n## Insights\n-   Direct traffic is the strongest source of users\n-   Organic search and social media also drive meaningful traffic\n-   Engaged sessions make up a large share of total sessions\n-   Conversion metrics help evaluate website effectiveness\n\n## Conclusion\n\n> Website analytics helps identify which channels perform best, how users behave, and where marketing improvements can create stronger results.\n",
+    "supporting": [
+      "analytics_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

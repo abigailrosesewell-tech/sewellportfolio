@@ -1,0 +1,53 @@
+---
+title: "Dashboard"
+---
+
+## Dashboard
+
+This page presents sample visualizations similar to the kinds of dashboards used in marketing and social media reporting.
+
+## Social Media Engagement by Platform
+
+```{r}
+library(tidyverse)
+
+engagement_data <- tibble(
+  platform = c("Instagram", "TikTok", "Facebook"),
+  engagement = c(820, 1040, 430)
+)
+
+ggplot(engagement_data, aes(x = platform, y = engagement)) +
+  geom_col() +
+  labs(
+    title = "Sample Social Media Engagement by Platform",
+    x = "Platform",
+    y = "Engagement"
+  ) +
+  theme_minimal()
+```
+
+## Audience Reach Over Time
+
+```{r}
+reach_data <- tibble(
+  month = c("January", "February", "March", "April"),
+  reach = c(1800, 2200, 2600, 3100)
+)
+
+ggplot(reach_data, aes(x = month, y = reach, group = 1)) +
+  geom_line() +
+  geom_point() +
+  labs(
+    title = "Sample Audience Reach Over Time",
+    x = "Month",
+    y = "Reach"
+  ) +
+  theme_minimal()
+```
+
+## Dashboard Insights
+-   Instagram and TikTok show higher engagement than Facebook
+-   Audience reach increases over time
+-   Dashboards make campaign performance easier to understand
+
+

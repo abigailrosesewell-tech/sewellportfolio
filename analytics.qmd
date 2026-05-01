@@ -1,0 +1,78 @@
+
+---
+title: "Website Analytics"
+---
+
+## Website Analytics Report
+
+This page explains how website traffic data can be collected, connected, and analyzed using Google Analytics 4 and related tools.
+
+## Connecting Website to Google Analytics
+
+Google Analytics 4 can be connected to a website by adding the tracking tag to the site. This allows website traffic and user behavior data to be collected.
+
+## Connecting Google Search Console to Google Analytics
+
+Google Search Console can be linked to Google Analytics to better understand search performance, impressions, and organic traffic.
+
+## Reading Google Analytics from Google BigQuery
+
+Google Analytics data can be exported to BigQuery, where larger and more detailed analyses can be performed.
+
+## Visualizing Data in Looker Studio
+
+Looker Studio can be used to visualize traffic and conversion metrics such as:
+
+- Users
+- Sessions
+- Traffic source
+- Engagement
+- Conversions
+
+## Sample Traffic Visualization
+
+```{r}
+library(tidyverse)
+
+traffic_data <- tibble(
+  source = c("Direct", "Organic Search", "Social", "Referral"),
+  users = c(420, 310, 260, 110)
+)
+
+ggplot(traffic_data, aes(x = source, y = users)) +
+  geom_col() +
+  labs(
+    title = "Sample Website Users by Traffic Source",
+    x = "Traffic Source",
+    y = "Users"
+  ) +
+  theme_minimal()
+```
+
+## Sample Conversion
+
+```{r}
+conversion_data <- tibble(
+  metric = c("Sessions", "Engaged Sessions", "Conversions"),
+  value = c(1240, 860, 145)
+)
+
+ggplot(conversion_data, aes(x = metric, y = value)) +
+  geom_col() +
+  labs(
+    title = "Sample Traffic and Conversion Metrics",
+    x = "Metric",
+    y = "Value"
+  ) +
+  theme_minimal()
+```
+
+## Insights
+-   Direct traffic is the strongest source of users
+-   Organic search and social media also drive meaningful traffic
+-   Engaged sessions make up a large share of total sessions
+-   Conversion metrics help evaluate website effectiveness
+
+## Conclusion
+
+> Website analytics helps identify which channels perform best, how users behave, and where marketing improvements can create stronger results.

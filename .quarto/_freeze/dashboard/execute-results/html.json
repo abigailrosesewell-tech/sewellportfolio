@@ -1,0 +1,17 @@
+{
+  "hash": "8b0699ced19f390d0ac18d062febdf42",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Dashboard\"\n---\n\n## Dashboard\n\nThis page presents sample visualizations similar to the kinds of dashboards used in marketing and social media reporting.\n\n## Social Media Engagement by Platform\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](dashboard_files/figure-html/unnamed-chunk-1-1.png){width=672}\n:::\n:::\n\n\n## Audience Reach Over Time\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](dashboard_files/figure-html/unnamed-chunk-2-1.png){width=672}\n:::\n:::\n\n\n## Dashboard Insights\n-   Instagram and TikTok show higher engagement than Facebook\n-   Audience reach increases over time\n-   Dashboards make campaign performance easier to understand\n\n\n",
+    "supporting": [
+      "dashboard_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

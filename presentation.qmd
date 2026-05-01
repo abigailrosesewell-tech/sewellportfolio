@@ -1,0 +1,42 @@
+
+---
+title: "How Social Media Builds Brand Identity"
+format:
+  revealjs:
+    theme: default
+    slide-number: true
+    incremental: true
+    transition: slide
+---
+
+## Introduction
+
+Social media plays a major role in how brands connect with audiences.
+
+## Why Brand Identity Matters
+
+A strong brand identity helps businesses stand out and remain memorable.
+
+## Role of Content
+
+Content shapes how audiences understand a brand’s personality, values, and message.
+
+## Visual Storytelling
+
+Photos, videos, editing, and design all contribute to a stronger brand image.
+
+## Consistency
+
+Consistent colors, tone, and style make content feel professional and trustworthy.
+
+## Engagement
+
+Strong branding improves engagement because audiences are more likely to connect with clear and recognizable content.
+
+## Real-World Relevance
+
+This is especially important for cafes, lifestyle brands, and fashion companies that rely on visual marketing.
+
+## Conclusion
+
+Social media is one of the most effective tools for building and maintaining brand identity.

@@ -1,0 +1,14 @@
+{
+  "index.qmd": {
+    "index.html": "3b1c61d9"
+  },
+  "projects.qmd": {
+    "projects.html": "1c91388a"
+  },
+  "analytics.qmd": {
+    "analytics.html": "d8ce7658"
+  },
+  "dashboard.qmd": {
+    "dashboard.html": "4202cc21"
+  }
+}
